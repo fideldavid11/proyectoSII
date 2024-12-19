@@ -43,7 +43,7 @@
 ![image](https://github.com/user-attachments/assets/11399230-0b54-4c55-817b-d3badc9d130d)
 ![image](https://github.com/user-attachments/assets/69da01cd-1bf1-478a-91fc-cc6f14c8ce2b)
 
-## Nota las APIs se estan ejecutando desde mi IP por ejemplo: `http://192.168.0.4:7575/api/users/login` para que funcionen deberias editar todas las APIS de esta forma: `http:<tu-IP>7575/api/users/login`
+## Nota las APIs se estan ejecutando desde mi IP por ejemplo: `http://192.168.0.4:7575/api/users/login` para que funcionen deberias editar todas las APIS de esta forma: `http:<tu-IP>:7575/api/users/login`
 
 ## Backend 
 
