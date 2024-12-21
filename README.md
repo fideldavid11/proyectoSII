@@ -54,7 +54,7 @@
 ## 3. Una vez todo configurado ejecutar el comando `npm run dev` y listo. 
 
 ## Funcionamiento:
-- Algunas de las APIs estan configuradas para que el usuario pueda sus datos, no podra ver la informacion de otros usuarios.
+- Algunas de las APIs estan configuradas para que el usuario pueda ver sus datos, no podra ver la informacion de otros usuarios.
 - La aplicacion usa middlewares para regular los inicios de sesion y estan presentes el uso de authToken tanto en el backend como en la aplicacion misma.
 - En la parte del cluster la parte del PIN esta encriptada tomando en cuenta medidas de seguridad en aplicaciones modernas como lo pueden ver aqui:
 ![image](https://github.com/user-attachments/assets/8feea9ac-f889-49df-b088-de6a74ca7335)
